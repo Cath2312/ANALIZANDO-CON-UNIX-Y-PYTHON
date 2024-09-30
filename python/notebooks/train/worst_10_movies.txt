@@ -1,0 +1,10 @@
+http://www.imdb.com/title/tt0082764/usercomments	1.0
+http://www.imdb.com/title/tt0342317/usercomments	1.0
+http://www.imdb.com/title/tt0207491/usercomments	1.0
+http://www.imdb.com/title/tt0036515/usercomments	1.0
+http://www.imdb.com/title/tt0003471/usercomments	1.0
+http://www.imdb.com/title/tt0114134/usercomments	1.0
+http://www.imdb.com/title/tt0033660/usercomments	1.0
+http://www.imdb.com/title/tt0091763/usercomments	1.0
+http://www.imdb.com/title/tt0075774/usercomments	1.0
+http://www.imdb.com/title/tt0115834/usercomments	1.0
